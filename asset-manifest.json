@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/IndiaTodayMobileSite/static/css/main.bb3ef1ac.chunk.css",
+    "main.js": "/IndiaTodayMobileSite/static/js/main.a37c27c1.chunk.js",
+    "main.js.map": "/IndiaTodayMobileSite/static/js/main.a37c27c1.chunk.js.map",
+    "runtime-main.js": "/IndiaTodayMobileSite/static/js/runtime-main.773202b4.js",
+    "runtime-main.js.map": "/IndiaTodayMobileSite/static/js/runtime-main.773202b4.js.map",
+    "static/js/2.1440b079.chunk.js": "/IndiaTodayMobileSite/static/js/2.1440b079.chunk.js",
+    "static/js/2.1440b079.chunk.js.map": "/IndiaTodayMobileSite/static/js/2.1440b079.chunk.js.map",
+    "index.html": "/IndiaTodayMobileSite/index.html",
+    "static/css/main.bb3ef1ac.chunk.css.map": "/IndiaTodayMobileSite/static/css/main.bb3ef1ac.chunk.css.map",
+    "static/js/2.1440b079.chunk.js.LICENSE.txt": "/IndiaTodayMobileSite/static/js/2.1440b079.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.773202b4.js",
+    "static/js/2.1440b079.chunk.js",
+    "static/css/main.bb3ef1ac.chunk.css",
+    "static/js/main.a37c27c1.chunk.js"
+  ]
+}
